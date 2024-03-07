@@ -1,3 +1,6 @@
+W E L C O M E  T O  M Y  B I O
+
+
 # biodata.py
 
 # Mendefinisikan variabel-variabel biodata

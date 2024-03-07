@@ -5,7 +5,7 @@
 - umur = "14 tahun"
 - alamat = "Batam, Riau"
 - pekerjaan = "Web Dev"
-- email = infoonly44@gmail.com
+- email = "infoonly44@gmail.com"
 
 # Menampilkan informasi biodata
 print("Nama:", nama)

@@ -1,4 +1,4 @@
-# biodata.py
+#!/usr/bin/python
 
 # Mendefinisikan variabel-variabel biodata
 nama = "Kevin Pandu Samudera"
